@@ -5,7 +5,7 @@
   (paper "A4")
 
   (lib_symbols
-    (symbol "5V_SMPS_Modules:K7805-2000R3" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
+    (symbol "5V_SMPS_Modules:K7805-2000R3" (pin_names (offset 0.254))) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -3.81 3.175 0)
         (effects (font (size 1.27 1.27)))
       )
